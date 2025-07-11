@@ -4,15 +4,16 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br><br>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="250px" align="right" />
 
-<br>
-
-- :school: I'm a `student` at [Faculty of science and technology in the Computer Enfinnering program](http://www.fcyt.umss.edu.bo/pregrado/informatica/) at [Higher University of San Simón.](https://www.umss.edu.bo).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`.
-- :nerd_face: Always `learning new things`.
-<br>
+<ul>
+  <li>:school: I'm a <code>student</code> at the <a href="http://www.fcyt.umss.edu.bo/pregrado/informatica/">Faculty of Science and Technology</a> in the Computer Engineering program at <a href="https://www.umss.edu.bo">Higher University of San Simón</a>.</li>
+  <li>:technologist: I love using Software as a solution for every <code>Problem</code>.</li>
+  <li>:computer: I am a competitive programmer at <code>Codeforces</code>.</li>
+  <li>:nerd_face: Always <code>learning new things</code>.</li>
+</ul>
+<br clear="both" />
 
 ## 🛠️ My Skills
 
