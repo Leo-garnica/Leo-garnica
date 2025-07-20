@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/Leo-garnica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo-garnicashow_icons=true&theme=tokyonigh"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo-garnica&show_icons=true&theme=tokyonigh"/>
 </a>
   <a href="https://github.com/Leo-garnica">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-garnica&theme=tokyonight&layout=compact&cache_seconds=1"/>
