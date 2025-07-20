@@ -66,11 +66,12 @@
 
 <p align="center">
   <a href="https://github.com/Leo-garnica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-garnica&theme=tokyonight&layout=compact&cache_seconds=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leo-garnicashow_icons=true&theme=tokyonigh"/>
 </a>
   <a href="https://github.com/Leo-garnica">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-garnica&theme=tokyonight&layout=compact"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-garnica&theme=tokyonight&layout=compact&cache_seconds=1"/>
+</a>
+
 </p>
 
 <p align="center">
