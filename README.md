@@ -67,10 +67,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leo-garnica&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub Stats" />
 </p>
+  <p align="center">
   <a href="https://github.com/Leo-garnica">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-garnica&theme=tokyonight&layout=compact&cache_seconds=1"/>
-</a>
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-garnica&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-garnica&theme=tokyonight" alt="mystreak"/>
