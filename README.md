@@ -82,6 +82,25 @@
   <img src="https://streak-stats.vercel.app/api/?user=Leo-garnica&theme=tokyonight" alt="mystreak" />
 </p>
 
+<details>
+  <summary><h3> :open_file_folder: Mis Repositorios </h3></summary>
+  
+  ----
+
+  <div>
+    <p align="center">
+      <a href="https://github.com/Leo-garnica/Leo-garnica">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-garnica&repo=Leo-garnica&theme=tokyonight" alt="Repositorio 1" />
+      </a>
+      <a href="https://github.com/Leo-garnica/Detector-Basura">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-garnica&repo=Detector-Basura&theme=tokyonight" alt="Repositorio 2" />
+      </a>
+      <a href="https://github.com/Leo-garnica/Lenguage-C">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-garnica&repo=Lenguage-C&theme=tokyonight" alt="Repositorio 3" />
+      </a>
+    </p>
+  </div>
+</details>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
