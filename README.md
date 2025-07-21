@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Leo-garnica&theme=tokyonight" alt="mystreak" />
+  <img src="https://streak-stats.vercel.app/api/?user=Leo-garnica&theme=tokyonight" alt="mystreak" />
 </p>
 
 
